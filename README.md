@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿Камень ножницы бумага, реализованные максимально топорно. Ничего интересного
 
-namespace ConsoleApp5
-{
-    class README
-    {
-    }
-}
+Касимально простая реалезация: с помощью switch case-ов реализована победа одной из сторон: человека или бота
+
+Бот выберает камень ножницу или бумагу с помошью еще одного switch case-а
